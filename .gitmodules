@@ -1,0 +1,3 @@
+[submodule "python-cheatsheets"]
+	path = python-cheatsheets
+	url = git@gitlab.com:tomschr/python-cheatsheets.git
